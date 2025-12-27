@@ -53,4 +53,4 @@ You can support the project by donating to the address below.
 
 | Type | Address |
 | :--- | :--- |
-| <img src="https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png" alt="Bitcoin" width="50"/> | `bc1q97xgwurjf2p5at9kzm96fkxymf3rh6gfmfq8fj` |
+| <img src="https://en.bitcoin.it/w/images/en/2/29/BC_Logo_.png" alt="Bitcoin" width="50"/> | `17ZpzQfLfVC17kgo5jw4UWuxSW9FZCYxP7` |
